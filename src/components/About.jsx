@@ -12,8 +12,7 @@ function About() {
           <div className="col mt-5">
             <h1>Sobre nosotros</h1>
             <p>
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis
-              necessitatibus quod, reiciendis error eveniet dolor saepe?
+              Sitio creado por Gonzalo Molina
             </p>
           </div>
         </div>
