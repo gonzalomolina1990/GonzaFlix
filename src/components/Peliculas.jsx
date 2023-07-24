@@ -96,7 +96,7 @@ const Peliculas = () => {
           </>
         )}
 
-        {moviesNotFound && moviesNotFound.results.length === 0 && (
+        {moviesNotFound && moviesNotFound.results.length == 0 && (
           <>
             <div className="container mt-5">
               <div className="row mt-3">
